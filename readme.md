@@ -19,6 +19,6 @@ CREATE TABLE users (
 );
 
 INSERT INTO users (first_name, last_name, email)
-VALUES ('Christian', 'Schou', 'chsc@christian-schou.dk');
+VALUES ('Geoffrey', 'Sagini', 'sagini@christian-schou.dk');
 
 SELECT * FROM users;
